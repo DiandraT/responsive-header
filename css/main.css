@@ -81,7 +81,7 @@ html {
 
   html {
     font-size: 110%;
-    font-size: 1.4;
+    line-height: 1.4;
   }
 
   h1 {
@@ -92,7 +92,7 @@ html {
   li {
     padding-left: 1.25em;
     padding-right: 1.25em;
-    padding-bottom: 1em;
+    padding-bottom: .75em;
     padding-top: .75em;
   }
 
