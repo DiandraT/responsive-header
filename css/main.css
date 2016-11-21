@@ -44,7 +44,7 @@ nav ul {
 nav a {
   text-decoration: none;
   color: #6c8fe0;
-  white-space: nowrap; /* How white space in the element is handled */
+  white-space: nowrap; /* How white space in the element is handled, text will not wrap to the next line using nowrap */
 }
 
 li {
