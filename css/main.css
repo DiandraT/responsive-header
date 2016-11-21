@@ -26,6 +26,7 @@ body {
 header {
   background-color: #18294f;
   overflow: hidden;
+  color: #fff;
 }
 
 header h1 {
@@ -43,6 +44,7 @@ nav ul {
 nav a {
   text-decoration: none;
   color: #6c8fe0;
+  white-space: nowrap; /* How white space in the element is handled */
 }
 
 li {
@@ -87,6 +89,10 @@ li {
     font-family: Ubuntu, sans-serif;
   }
 
+  header {
+    background-color: #18294f;
+  }
+
   h1 {
     margin: 0;
   }
@@ -112,6 +118,10 @@ li {
     font-family: Ubuntu, sans-serif;
   }
 
+  header {
+    background-color: #18294f;
+  }
+
   h1 {
     float: left;
     margin: .9rem;
@@ -132,6 +142,10 @@ li {
     font-size: 130%;
     line-height: 1.5;
     font-family: Ubuntu, sans-serif;
+  }
+
+  header {
+    background-color: #18294f;
   }
 
   h1 {
